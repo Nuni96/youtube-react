@@ -5,7 +5,7 @@ Mockup of YouTube page using YouTube Data API v3
 -ReactJS\
 -Axios\
 -Browsify-fs\
--Youtube Data API v3\
+-Youtube Data API v3
 
 # Steps to run application: 
 ### git clone https://github.com/Nuni96/youtube-react
