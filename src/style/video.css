@@ -1,0 +1,30 @@
+.video-item {
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.video-item.item img {
+    max-width: 200px;
+    max-height: 250px ;
+}
+
+.image {
+    cursor: pointer;
+    width: 200px;
+    height: 100px;
+    justify-content: center;
+}
+
+.search-bar.ui.segment {
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.json {
+    border: 1px solid black;
+    padding: 10px;
+}
