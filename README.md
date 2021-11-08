@@ -3,6 +3,7 @@ Mockup of YouTube page using YouTube Data API v3
 
 # Technologies used
 -ReactJS\
+-Bootstrap\
 -Axios\
 -Browsify-fs\
 -Youtube Data API v3
